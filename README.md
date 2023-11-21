@@ -37,7 +37,7 @@ This application provides real-time information on cryptocurrency pairs, utilizi
 Features
 - Crypto Pair Search: Centralized search bar for users to find specific cryptocurrency pairs.
 - Homepage Display: Showcases three cryptocurrency pairs on the homepage for quick access.
-- Styling with Tailwind CSS & Twig: Leveraged Tailwind CSS or Bootstrap for styling, combined with the Twig template engine for efficient, clean, and responsive design.
+- Styling with Tailwind CSS & Twig: Leveraged Tailwind CSS for styling, combined with the Twig template engine for efficient, clean, and responsive design.
   
 Both applications exemplify my skills in creating user-centric, functional web applications using modern technologies.
 
